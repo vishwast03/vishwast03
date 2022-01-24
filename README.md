@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Vishwas</h1>
 <h3 align="center">I am a full-stack web developer with experience building websites and web applications. I specialize in MERN Stack (MongoDB, Express.js, React.js, and Node.js) and have experience working with Tailwind CSS and Bootstrap.</h3>
 
-<br>
-
 <h2 align="center">Technology Stack</h2>
 <p align="center">
   <a href="https://reactjs.org"><img align="center" src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" /></a>
@@ -24,8 +22,6 @@
   <a href="https://www.python.org/"><img align="center" src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" /></a>
 </p>
 
-<br>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/vishwast03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vishwast03" height="30" width="40" /></a>
@@ -35,8 +31,7 @@
 <a href="https://auth.geeksforgeeks.org/user/vishwast8126/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishwast8126/profile" height="30" width="40" /></a>
 </p>
 
-<br>
-<br>
+<h2 align="center">My GitHub Stats</h2>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwast03&show_icons=true&locale=en&layout=compact" alt="vishwast03" height="200" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwast03&" alt="vishwast03" height="200" /></p>
