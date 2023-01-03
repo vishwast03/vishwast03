@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/vishwast03/vishwast03/main/assets/header-banner-2.png "Header")
+![Header](https://raw.githubusercontent.com/vishwast03/vishwast03/main/assets/header-banner.png "Header")
 
 <h1 align="center">Hi 👋, I'm Vishwas</h1>
 <h3 align="center">I am a full-stack web developer with experience building websites and web applications. I specialize in MERN Stack (MongoDB, Express.js, React.js, and Node.js) and have experience working with Tailwind CSS and Bootstrap.</h3>
