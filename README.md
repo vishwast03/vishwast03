@@ -22,19 +22,19 @@
   <a href="https://www.python.org/"><img align="center" src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" /></a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Socials</h3>
 <p align="center">
 <a href="https://codepen.io/vishwast03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vishwast03" height="30" width="40" /></a>
 <a href="https://dev.to/vishwast03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vishwast03" height="30" width="40" /></a>
 <a href="https://twitter.com/vishwast03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishwast03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishwas-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwas-tyagi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vishwast8126/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishwast8126/profile" height="30" width="40" /></a>
+
 </p>
 
-<h2 align="center">My GitHub Stats</h2>
+<!-- <h2 align="center">My GitHub Stats</h2>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwast03&show_icons=true&locale=en&layout=compact" alt="vishwast03" height="170" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwast03&" alt="vishwast03" height="170" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwast03&show_icons=true&locale=en&layout=compact" alt="vishwast03" height="170" /> -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwast03&" alt="vishwast03" height="170" /></p> -->
 
 
 
